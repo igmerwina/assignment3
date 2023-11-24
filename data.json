@@ -238,5 +238,25 @@
     {
         "water": 7,
         "wind": 9
+    },
+    {
+        "water": 6,
+        "wind": 14
+    },
+    {
+        "water": 9,
+        "wind": 11
+    },
+    {
+        "water": 13,
+        "wind": 11
+    },
+    {
+        "water": 13,
+        "wind": 3
+    },
+    {
+        "water": 2,
+        "wind": 5
     }
 ]
